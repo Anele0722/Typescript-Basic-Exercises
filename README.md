@@ -1,1 +1,1 @@
-# Create-Enum-Exercise-1.ts
+Typescript basics
